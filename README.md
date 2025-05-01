@@ -22,6 +22,7 @@ Getting Started
 
 In bash
 git clone https://github.com/yourusername/travel-itinerary.git
+
 cd travel-itinerary
 
 2)Create Virtual Environment
